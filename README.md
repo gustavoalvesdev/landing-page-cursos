@@ -1,5 +1,5 @@
 # landing-page-cursos
-Segundo Projeto do Curso Front-End Completo da Danki Code. Trata-se de uma Landing Page para Divulgação deCursos Online
+Primeiro Projeto do Curso Front-End Completo da Danki Code. Trata-se de uma Landing Page para Divulgação deCursos Online
 
 ### Pré-requisitos
 Um navegador de internet
